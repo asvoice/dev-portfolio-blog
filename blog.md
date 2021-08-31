@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Rohit Jain | Blog
+title: Jin K // Okamura | Blog
 pagination:
   enabled: true
 ---
